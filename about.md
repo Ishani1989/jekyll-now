@@ -10,7 +10,7 @@ permalink: /about/
  
 |    :---:     |     :---:      |     :---:      |
 |  [![Cuisine App]({{site.url}}/assets/pic.jpg)](https://github.com/Ishani1989/CuisineWise) | [![Ice cream Finder Map]({{site.url}}/assets/ice.png)](https://github.com/Ishani1989/IceCreamFinderMap)      | git status    |
-| <h6>Cuisine Wise</h6>    | <h6>Ice Cream Finder</h6>      | git diff      |
+| Cuisine Wise    | Ice Cream Finder   | git diff      |
  
 
    
