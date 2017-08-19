@@ -8,11 +8,11 @@ permalink: /about/
  
  <h3>Projects :</h3>
  
-|   	|   	|   	|   	|   	|
-|:-:	|:-:	|:-:	|:-:	|:-:	|
-|   	|   	|   	|   	|   	|
-|  [![Cuisine App]({{site.url}}/assets/pic.jpg)](https://github.com/Ishani1989/CuisineWise)	|    [![Ice cream Finder Map]({{site.url}}/assets/ice.png)](https://github.com/Ishani1989/IceCreamFinderMap)	|   	|   	|   	|
-|   Cuisine Wise 	|   Ice Cream Finder 	|   	|   	|   	|
+|   	|   	|   	|
+|:-:	|:-:	|:-:	|
+|   	|   	|   	|
+|[![Cuisine App]({{site.url}}/assets/pic.jpg)](https://github.com/Ishani1989/CuisineWise) |[![Ice cream Finder Map]({{site.url}}/assets/ice.png)](https://github.com/Ishani1989/IceCreamFinderMap)  |   	|
+|   Cuisine Wise 	|   Ice Cream Finder 	|   	|
 
 
  
