@@ -11,7 +11,7 @@ permalink: /about/
 |   	|   	|   	|
 |:-:	|:-:	|:-:	|
 |   	|   	|   	|
-|[![Cuisine App]({{site.url}}/assets/pic.jpg)](https://github.com/Ishani1989/CuisineWise) |[![Ice cream Finder Map]({{site.url}}/assets/ice.png)](https://github.com/Ishani1989/IceCreamFinderMap)  |   	|
+|[![Cuisine App]({{site.url}}/assets/pic.jpg)](https://github.com/Ishani1989/CuisineWise)&nbsp;is&nbsp;&nbsp;is&nbsp;|[![Ice cream Finder Map]({{site.url}}/assets/ice.png)](https://github.com/Ishani1989/IceCreamFinderMap)&nbsp;is&nbsp;&nbsp;is&nbsp;|   	|
 |   Cuisine Wise 	|   Ice Cream Finder 	|   	|
 
 
