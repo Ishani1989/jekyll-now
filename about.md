@@ -12,7 +12,7 @@ permalink: /about/
  
  <table>
     <tr>
-        <td>![Cuisine App]({{site.url}}../assets/pic.jpg){:class="img-responsive"}</td>
+        <td>![Cuisine App]({{site.url}}/assets/pic.jpg){:class="img-responsive"}</td>
         <td><img src = "" alt = "Cuisine App"/></td>
         <td><img src = "" alt = "Cuisine App"/></td>
     </tr>
