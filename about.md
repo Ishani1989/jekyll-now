@@ -8,25 +8,10 @@ permalink: /about/
  
  <h3>Projects :</h3>
  
-|    :---:     |     :---:      |     :---:      |
+|:------------------:|:-------------------:|:--------------------:|
 |  [![Cuisine App]({{site.url}}/assets/pic.jpg)](https://github.com/Ishani1989/CuisineWise)   |  [![Ice cream Finder Map]({{site.url}}/assets/ice.png)](https://github.com/Ishani1989/IceCreamFinderMap) | git status    |
 | Cuisine Wise   |  Ice Cream Finder   | git diff      |
  
-
-   
- 
- 
- <table>
-    <tr>
-        <td><img src = "" alt = "Cuisine App"/></td>
-        <td><img src = "" alt = "Cuisine App"/></td>
-    </tr>
-    <tr>
-        <td><img src = "" alt = "Cuisine App"/></td>
-        <td><img src = "" alt = "Cuisine App"/></td>
-        <td><img src = "" alt = "Cuisine App"/></td>
-    </tr>
- </table>
 
 ### Contact me
 
