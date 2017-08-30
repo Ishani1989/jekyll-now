@@ -28,8 +28,8 @@ Each render method should return some UI in order to be shown on the screen. Onl
 
 React lays out the foundation for 2 basic concepts :
 
-1. State
-2. Components
+1. **State**
+2. **Components**
 
 ##### State : 
 
@@ -49,10 +49,10 @@ It makes using React a lot more elegant and faster.
 
 React uses ES6 syntax for all its methods. React is declarative in nature. Using arrow functions is the most common in React.
 
-`this.nums.forEach((v) => {
+```this.nums.forEach((v) => {
     if (v % 5 === 0)
         this.fives.push(v)
-})`
+})```
 
 ##### `render` and `return` are absolutely mandatory in React:
 
@@ -88,7 +88,7 @@ export default ComponentName
 
 To include this in your parent component :
 
-`import ComponentName from './path'`
+```import ComponentName from './path'```
 
 Then use it simply like a self ending HTML tag in your render method.
 
