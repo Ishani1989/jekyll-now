@@ -49,10 +49,12 @@ It makes using React a lot more elegant and faster.
 
 React uses ES6 syntax for all its methods. React is declarative in nature. Using arrow functions is the most common in React.
 
-```this.nums.forEach((v) => {
+```
+this.nums.forEach((v) => {
     if (v % 5 === 0)
         this.fives.push(v)
-})```
+})
+```
 
 ##### `render` and `return` are absolutely mandatory in React:
 
@@ -75,7 +77,6 @@ Its best practice to break all functionalities into separate components in React
  In order to do so, simply in a new file define a new class as
  
  ```
-
 class ComponentName extends Component{
     
     render{
@@ -88,7 +89,9 @@ export default ComponentName
 
 To include this in your parent component :
 
-```import ComponentName from './path'```
+```
+import ComponentName from './path'
+```
 
 Then use it simply like a self ending HTML tag in your render method.
 
@@ -102,7 +105,7 @@ render {
 
 ##### Passing data within components :
 
-
+**props**
 
 ##### Routing in React :
 
