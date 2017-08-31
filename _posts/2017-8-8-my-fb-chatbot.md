@@ -105,7 +105,25 @@ render {
 
 ##### Passing data within components :
 
-**props**
+**props** is the keyword that will help you here. All data that is passed within components using this.props.
+Here, `this` is used to denote the current components context.
+
+Pass the props to the child component like this :
+
+```
+const data= "Welcome to React"
+<ComponentName data = {this.data}/>
+
+```
+Within the child component we can access the value stored in data like this :
+
+```
+render{
+    return(
+        <div>{this.props.data}</div>
+    )}
+```
+This will output 'Welcome to React' in the DOM.
 
 ##### Routing in React :
 
