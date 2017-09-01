@@ -123,7 +123,7 @@ render{
         <div>{this.props.data}</div>
     )}
 ```
-This will output 'Welcome to React' in the DOM   .
+This will output 'Welcome to React' in the DOM.
 
 ##### Routing in React :
 
